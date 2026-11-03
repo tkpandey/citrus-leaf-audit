@@ -59,4 +59,4 @@ Please cite the paper (citation will be updated on publication) and this archive
 
 ## Contact
 
-Tushar Kumar Pandey, Dr. Rajendra Prasad Central Agricultural University, Pusa, Bihar, India — tusharkumarpandey@gmail.com — ORCID 0009-0008-5106-5994
+Tushar Kumar Pandey, Dr. Rajendra Prasad Central Agricultural University, Pusa, Bihar, India — tushar.pandey@rpcau.ac.in — ORCID 0009-0008-5106-5994
