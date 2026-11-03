@@ -1,0 +1,5 @@
+,width,width,width,height,height,height
+,min,median,max,min,median,max
+class,,,,,,
+healthy,256,1000.0,1000,256,1000.0,1000
+unhealthy,256,256.0,1890,256,256.0,1417

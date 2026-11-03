@@ -1,0 +1,6 @@
+model,original_acc,original_healthy_recall,jpeg_q90_acc,jpeg_q90_healthy_recall,resized_256_acc,resized_256_healthy_recall,grey_background_acc,grey_background_healthy_recall,harmonised_acc,harmonised_healthy_recall
+mobilenet_v2,100.0,100.0,100.0,100.0,100.0,100.0,96.98,96.67,96.48,96.67
+efficientnet_b0,100.0,100.0,100.0,100.0,100.0,100.0,94.97,92.22,93.47,91.11
+shufflenet_v2,100.0,100.0,100.0,100.0,100.0,100.0,93.97,86.67,89.45,76.67
+resnet18,100.0,100.0,100.0,100.0,100.0,100.0,85.43,67.78,82.91,62.22
+squeezenet1_1,100.0,100.0,100.0,100.0,100.0,100.0,78.89,55.56,74.37,45.56

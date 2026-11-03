@@ -1,0 +1,21 @@
+Images,Model A,Model B,Accuracy A (%),Accuracy B (%),"A right, B wrong","A wrong, B right",p (exact),p (Holm)
+Original,MobileNetV2,EfficientNet-B0,99.9,99.8,1,0,1.0,1.0
+Original,MobileNetV2,ShuffleNetV2 1.0×,99.9,99.9,0,0,1.0,1.0
+Original,MobileNetV2,ResNet-18,99.9,100.0,0,1,1.0,1.0
+Original,MobileNetV2,SqueezeNet 1.1,99.9,99.7,2,0,0.5,1.0
+Original,EfficientNet-B0,ShuffleNetV2 1.0×,99.8,99.9,0,1,1.0,1.0
+Original,EfficientNet-B0,ResNet-18,99.8,100.0,0,2,0.5,1.0
+Original,EfficientNet-B0,SqueezeNet 1.1,99.8,99.7,1,0,1.0,1.0
+Original,ShuffleNetV2 1.0×,ResNet-18,99.9,100.0,0,1,1.0,1.0
+Original,ShuffleNetV2 1.0×,SqueezeNet 1.1,99.9,99.7,2,0,0.5,1.0
+Original,ResNet-18,SqueezeNet 1.1,100.0,99.7,3,0,0.25,1.0
+Harmonised,MobileNetV2,EfficientNet-B0,95.76,88.8,96,27,2.912355660156406e-10,1.456177830078203e-09
+Harmonised,MobileNetV2,ShuffleNetV2 1.0×,95.76,91.52,77,35,8.980220370452066e-05,0.000269406611113562
+Harmonised,MobileNetV2,ResNet-18,95.76,80.12,190,35,5.708178408613662e-27,5.708178408613662e-26
+Harmonised,MobileNetV2,SqueezeNet 1.1,95.76,83.15,158,33,9.216624109807664e-21,7.373299287846131e-20
+Harmonised,EfficientNet-B0,ShuffleNetV2 1.0×,88.8,91.52,52,79,0.022743268128245023,0.022743268128245023
+Harmonised,EfficientNet-B0,ResNet-18,88.8,80.12,135,49,1.7218675720944953e-10,1.0331205432566971e-09
+Harmonised,EfficientNet-B0,SqueezeNet 1.1,88.8,83.15,113,57,2.0959052717667597e-05,8.383621087067039e-05
+Harmonised,ShuffleNetV2 1.0×,ResNet-18,91.52,80.12,124,11,2.25115112982225e-25,2.026036016840025e-24
+Harmonised,ShuffleNetV2 1.0×,SqueezeNet 1.1,91.52,83.15,91,8,5.90963701961033e-19,4.136745913727231e-18
+Harmonised,ResNet-18,SqueezeNet 1.1,80.12,83.15,25,55,0.0010527348573533446,0.0021054697147066892

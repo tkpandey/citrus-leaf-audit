@@ -1,0 +1,8 @@
+{
+  "threshold_used": 0.95,
+  "pairs_at_input_threshold": 271,
+  "cross_class_pairs": 0,
+  "n_groups": 796,
+  "images_in_multi_image_groups": 345,
+  "largest_group": 10
+}

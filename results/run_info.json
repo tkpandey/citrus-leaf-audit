@@ -1,0 +1,10 @@
+{
+  "best_model": "resnet18",
+  "classes": [
+    "healthy",
+    "unhealthy"
+  ],
+  "n_images": 991,
+  "duplicates_removed": 13,
+  "cross_class_duplicates": 0
+}

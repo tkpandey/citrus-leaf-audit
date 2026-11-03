@@ -1,0 +1,5 @@
+,accuracy,accuracy,balanced_accuracy,balanced_accuracy,healthy_recall,healthy_recall,unhealthy_recall,unhealthy_recall,auc,auc
+,mean,std,mean,std,mean,std,mean,std,mean,std
+model,,,,,,,,,,
+resnet18,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+shufflenet_v2,0.9966521921837792,0.0045847765114811765,0.9907407407407407,0.018226870078731073,0.9833333333333332,0.03726779962499652,0.9981481481481481,0.004140866624999639,1.0,0.0
