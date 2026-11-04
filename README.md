@@ -2,7 +2,7 @@
 
 Code accompanying the manuscript:
 
-> Pandey TK, Dheer P, Dwivedi M, Patel SK. *Lightweight CNNs for citrus leaf health screening: benchmarking accuracy and auditing dataset bias.* Submitted to *Signal, Image and Video Processing*.
+> Pandey TK, Patel SK, Dwivedi M, Dheer P. *Lightweight CNNs for citrus leaf health screening: benchmarking accuracy and auditing dataset bias.* Submitted to *Signal, Image and Video Processing*.
 
 The notebooks reproduce every result reported in the paper: the five-model benchmark, Grad-CAM maps, the dataset-bias audit, the stress test and the statistical analysis.
 
